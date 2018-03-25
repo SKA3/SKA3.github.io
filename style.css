@@ -1,0 +1,98 @@
+h1,h2,h3 {
+  color: #525154;
+  font-family:'Josefin Sans';
+  width: 20%:auto;
+
+}
+h1 {
+  text-align: center;
+}
+TR{
+  color:black
+}
+body{
+  background-color:#ccc8e8
+}
+
+ul.navigation {
+background-color: white;
+display: block;
+list-style: none;
+margin-top: 0;
+width: 100%;
+height: 35px;
+
+}
+ul.navigation li{
+  display: inline-block;
+  float: left;
+}
+
+ul.navigation a {
+  color:black;
+  display: block;padding: 10px;
+  text-decoration: none;
+}
+tr{
+  background-color: #f5f4fb
+}
+p{
+  font-family:'Josefin Sans';
+  font-size: 22px;
+}
+div.fifty {
+  width: 50%;
+  float: left;
+}
+.border-wrapper {
+  border:1px solid #525154;
+  border-width: 15px;
+  float: left;
+}
+.music {
+  list-style:none;
+}
+.music {
+  color: #961473;
+}
+ul{
+  font-family:'Josefin Sans';
+  font-size: 22px;
+}
+#ACAC-Timonium {
+  color: #3e3e71;
+}
+#Beachfit {
+  color: #075873;
+}
+#Lifetime-Fitness {
+  color: #e2e4bd
+}
+ol{
+  font-family:'Josefin Sans';
+  font-size: 22px;
+}
+table,
+td,
+th {
+  border:2px dotted #8d9458;
+  border-collapse: collapse
+}
+p{
+  height:30px;
+  padding:30px;
+  margin: 10px;
+}
+::-webkit-scrollbar{
+      -webkit-appearance: none;
+      width: 7px;
+}
+::-webkit-scrollbar-thumb {
+    border-radius: 4px;
+    background-color: rgba(0,0,0,5);
+    box-shadow: 0 0 1px rgba(255,255,255,.5);
+}
+img {
+      display: block;
+      margin: auto;
+}
