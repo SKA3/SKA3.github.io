@@ -34,11 +34,12 @@ ul.navigation a {
   text-decoration: none;
 }
 tr{
-  background-color: #f5f4fb
+  background-color: #ccc8e8
 }
 p{
   font-family:'Josefin Sans';
   font-size: 22px;
+  clear: both;
 }
 div.fifty {
   width: 50%;
@@ -60,13 +61,13 @@ ul{
   font-size: 22px;
 }
 #ACAC-Timonium {
-  color: #3e3e71;
+  color: #570788;
 }
 #Beachfit {
   color: #075873;
 }
 #Lifetime-Fitness {
-  color: #e2e4bd
+  color: #3e3e71;
 }
 ol{
   font-family:'Josefin Sans';
